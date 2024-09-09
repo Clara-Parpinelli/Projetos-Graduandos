@@ -29,15 +29,15 @@ A atualização da tabela deve ser feita pelo responsável pela liderança das r
 Quem está responsável pela atualização da tabela não necessariamente precisa ter acesso a conta do github do URA. Ela deve realizar um fork do projeto para sua conta do github e realizar as devidas alterções. Após isso hávera a opção de realizar uma open pull request para o repositório original e assim, o reponsável pelo acesso da conta do URA aceitaria a pull para atualização final da tabela.
 
 ### Explicação de cada elemento da tabela
-- Nome: Nome do projeto
-- Autor(es): Autor(es) do projeto original com o link do perfil do github dele(s). Se o autor não tiver um perfil preencha apenas com o nome.
-- Turma: Ano e turma em que o projeto foi criado
-- Artigo: Link do artigo realizado pelos autores do projeto que apresenta a lista de componentes e o guia de funcionamento do projeto
-- Repositório (Autor): Repositório original do autor(es) do projeto
-- Repositório (URA): Repositório localizado no github do URA do projeto. Nele pode haver uma versão nova do projeto com modificações feitas por membros posteriores do URA com a autorização dos autores originais. Isso permite um melhor aproveitamento dos projetos mais antigos do projeto de extensão.
-- Status: Informação do atual status do projeto baseado nos testes periódicos realizado pelos membros do URA. É ideal que o status alterne entre: "Funcionando" para projetos que estejam funcionando devidamente e aptos a ir para os eventos; "Precisa de manutenção" para projetos que ou apresentam falhas lógicas, ou parou de funcionar ou precisa de uma troca de componentes/estrutura; "Descontinuado" para projetos que não são mais mantidos pelo projeto de extensão.
-- Última Atualização: Mês e ano que foi realizado a revisão ou manutenção mais recente do projeto
-- Responsável: Membro(s) do URA responsável pela revisão ou manutenção mais recente
+- __Nome:__ Nome do projeto
+- __Autor(es):__ Autor(es) do projeto original com o link do perfil do github dele(s). Se o autor não tiver um perfil preencha apenas com o nome.
+- __Turma:__ Ano e turma em que o projeto foi criado
+- __Artigo:__ Link do artigo realizado pelos autores do projeto que apresenta a lista de componentes e o guia de funcionamento do projeto
+- __Repositório(Autor):__ Repositório original do autor(es) do projeto
+- __Repositório (URA):__ Repositório localizado no github do URA do projeto. Nele pode haver uma versão nova do projeto com modificações feitas por membros posteriores do URA com a autorização dos autores originais. Isso permite um melhor aproveitamento dos projetos mais antigos do projeto de extensão.
+- __Status:__ Informação do atual status do projeto baseado nos testes periódicos realizado pelos membros do URA. É ideal que o status alterne entre: "Funcionando" para projetos que estejam funcionando devidamente e aptos a ir para os eventos; "Precisa de manutenção" para projetos que ou apresentam falhas lógicas, ou parou de funcionar ou precisa de uma troca de componentes/estrutura; "Descontinuado" para projetos que não são mais mantidos pelo projeto de extensão.
+- __Última Atualização:__ Mês e ano que foi realizado a revisão ou manutenção mais recente do projeto
+- __Responsável:__ Membro(s) do URA responsável pela revisão ou manutenção mais recente
 
 ## 👥 Autores
 
