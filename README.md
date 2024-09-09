@@ -18,6 +18,8 @@ Este respositório é dedicado a apresentar os status dos projetos das turmas de
 |   09   | Nome | Autor | Turma | Artigo | Repo(Autor) | Repo(URA) | Status | Última att. | Responsável |
 |   10   | Nome | Autor | Turma | Artigo | Repo(Autor) | Repo(URA) | Status | Última att. | Responsável |
 
+###### DATA DE ATUALIZAÇÃO DA TABELA: 09/09/24
+
 ## 📖 Guia de atualização da tabela
 
 A atualização da tabela deve ser feita pelo responsável pela liderança das revitalizações, ou seja, após o periódo de revitalização o gerente responsável pela equipe deve pegar os dados do que foi feito em cada projeto e quem realizou a revitalização e preencher a tabela. 
@@ -31,7 +33,11 @@ Quem está responsável pela atualização da tabela não necessariamente precis
 - Autor(es): Autor(es) do projeto original com o link do perfil do github dele(s). Se o autor não tiver um perfil preencha apenas com o nome.
 - Turma: Ano e turma em que o projeto foi criado
 - Artigo: Link do artigo realizado pelos autores do projeto que apresenta a lista de componentes e o guia de funcionamento do projeto
-- 
+- Repositório (Autor): Repositório original do autor(es) do projeto
+- Repositório (URA): Repositório localizado no github do URA do projeto. Nele pode haver uma versão nova do projeto com modificações feitas por membros posteriores do URA com a autorização dos autores originais. Isso permite um melhor aproveitamento dos projetos mais antigos do projeto de extensão.
+- Status: Informação do atual status do projeto baseado nos testes periódicos realizado pelos membros do URA. É ideal que o status alterne entre: "Funcionando" para projetos que estejam funcionando devidamente e aptos a ir para os eventos; "Precisa de manutenção" para projetos que ou apresentam falhas lógicas, ou parou de funcionar ou precisa de uma troca de componentes/estrutura; "Descontinuado" para projetos que não são mais mantidos pelo projeto de extensão.
+- Última Atualização: Mês e ano que foi realizado a revisão ou manutenção mais recente do projeto
+- Responsável: Membro(s) do URA responsável pela revisão ou manutenção mais recente
 
 ## 👥 Autores
 
