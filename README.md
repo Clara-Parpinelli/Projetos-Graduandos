@@ -5,7 +5,7 @@ Este respositório é dedicado a apresentar os status dos projetos das turmas de
 
 ## Status dos Projetos
 
-|    | Nome | Autor(s) | Turma | Artigo | Repositório (Autores) | Repositório (URA)  | Status | Última atualização | Responsável |
+|    | Nome | Autor(es) | Turma | Artigo | Repositório (Autores) | Repositório (URA)  | Status | Última atualização | Responsável |
 |:--:| :--: | :------: | :---: | :----: | :-------------------: |:------------------:| :----: | :----------------: | :---------: |
 |   01    |   LABIRINTO-QUIZ  | [@Jordan Ian](https://www.github.com/Jordaniano) e [@Maria Clara](https://www.github.com/Clara-Parpinelli)| 2023.2 | [Acessar](https://docs.google.com/document/d/1VhAqwn3LbEDIbXA3OSq12zahfJqI4fkxmL7birzCTI8/edit?usp=sharing)|[Acessar](https://github.com/Jordaniano/Labirinto-Quiz) Ver. 2.0| Em breve | Precisa de Manutenção | Setembro de 2024 | Maria Clara e Jordan |
 |   02   | Nome | Autor | Turma | Artigo | Repo(Autor) | Repo(URA) | Status | Última att. | Responsável |
@@ -24,7 +24,15 @@ A atualização da tabela deve ser feita pelo responsável pela liderança das r
 
 ### Como acessar a tabela?
 
-Quem está responsável pela atualização da tablea não necessariamente precisa ter acesso a conta do github do URA. Ela deve realizar um fork do projeto para sua conta do github e realizar as devidas alterções. Após isso hávera a opção de 
+Quem está responsável pela atualização da tabela não necessariamente precisa ter acesso a conta do github do URA. Ela deve realizar um fork do projeto para sua conta do github e realizar as devidas alterções. Após isso hávera a opção de realizar uma open pull request para o repositório original e assim, o reponsável pelo acesso da conta do URA aceitaria a pull para atualização final da tabela.
+
+### Explicação de cada elemento da tabela
+- Nome: Nome do projeto
+- Autor(es): Autor(es) do projeto original com o link do perfil do github dele(s). Se o autor não tiver um perfil preencha apenas com o nome.
+- Turma: Ano e turma em que o projeto foi criado
+- Artigo: Link do artigo realizado pelos autores do projeto que apresenta a lista de componentes e o guia de funcionamento do projeto
+- 
+
 ## 👥 Autores
 
 - [@wwwmisla](https://www.github.com/wwwmisla)
